@@ -9,7 +9,7 @@ This simple app was built using the Verbwire API. The App displays NFT sales dat
 1. Make sure you have a Verbwire API Key. You can sign up for a free API key [HERE](https://www.verbwire.com/auth/register)
 
 ## Steps to run program locally
-1. Replace the API Key in the file, nftSalesData.js, with your actual API key. See image in the additional section below.
+1. In the file, nftSalesData.js, replace the text "YOUR API KEY GOES HERE" with your actual API key. See image in the additional section below.
 
 2. From you command prompt, type in *npm i* to install node modules
 
