@@ -27,5 +27,5 @@ Your output should look like this:
 ## Additional Info
 ### 1. Showing where to input your API Key, as well as changing parameters
 <div align="center">
-    <img alt="inputApiKeyHere" src="resources/code_snippet_nft_sales_data.jpg"/>
+    <img alt="inputApiKeyHere" src="resources/code_snippet_nft_sales_data_.jpg"/>
 </div>
