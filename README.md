@@ -3,7 +3,7 @@
 </div>
 
 # NFT Sales Data Sample App
-This simple app was built using the Verbwire API. The App displays NFT sales data for a given nftName and over a specified time period. For more details on using the Verbwire API you can access the full API docs [here](https://docs.verbwire.com/docs)
+This simple app was built using the Verbwire API. The App displays NFT sales data for a given NFT name and over a specified time period. For more details on using the Verbwire API you can access the full API docs [here](https://docs.verbwire.com/docs)
 
 ## Requirements
 1. Make sure you have a Verbwire API Key. You can sign up for a free API key [HERE](https://www.verbwire.com/auth/register)
