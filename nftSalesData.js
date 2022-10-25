@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 // const sdk = require('api')('@verbwire/v1.0#hr2s143dl9hbr7s9');
 
-const API_KEY = 'sk_live_3c0c77fe-5b9e-4ec6-bdfd-f9698998d717';
+const API_KEY = 'YOUR API KEY GOES HERE'; // put in your API key here
 
 app.get('/', function(req, res){
   const sdk = require('api')('@verbwire/v1.0#hr2s143dl9hbr7s9');
