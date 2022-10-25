@@ -14,8 +14,8 @@ sdk.get('/nft/data/salesEventsForSlug', {
   limit: '25',     // change to adjust number of records returned
   offset: '0',
   sortDirection: 'DESC', //ascending and descending order...
-  startDate: '2022-10-01',// here you can change the dates (startningn date)
-  endDate: '2022-10-11'
+  startDate: '2022-10-01',// you can change the starting date for your returned data
+  endDate: '2022-10-11'  // you can change the end date of your returned data
 })
   .then((data)=>{res.send(data)})
   .catch(err => console.error(err));
